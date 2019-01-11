@@ -1,0 +1,88 @@
+[{ "car":{
+     "make": "Tesla",
+	  "model": "A7",
+     "vin": "09AGHY64352JITEG98K",
+     "metadata" : {
+         "color" : "Blue",
+         "notes" : "09AGHY64352JITEG98K: Scratches on the front side of the car"
+         },
+     "perdayrent" : {
+        "price" : 140,
+         "discount" : 15
+         },
+     "metrics" : {
+         "yoymaintanance" : 2190.76,
+         "depreciation": 2256.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 221
+             }
+         }
+    }
+},
+{ "car":{
+     "make": "Tesla",
+	  "model": "A7",
+     "vin": "09AGHY64352JITE293K",
+     "metadata" : {
+         "color" : "Black",
+         "notes" : "Scratches on the front side of the car"
+         },
+     "perdayrent" : {
+        "price" : 120,
+         "discount" : 15
+         },
+     "metrics" : {
+         "yoymaintanance" : 2190.76,
+         "depreciation": 2256.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 221
+             }
+         }
+    }
+},
+{ "car":{
+     "make": "Tesla",
+	  "model": "A7",
+     "vin": "09AGHY64352JI4523K",
+     "metadata" : {
+         "color" : "Blue",
+         "notes" : "09AGHY64352JI4523K: No Scratches"
+         },
+     "perdayrent" : {
+        "price" : 120,
+         "discount" : 15
+         },
+     "metrics" : {
+         "yoymaintanance" : 2190.76,
+         "depreciation": 2256.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 221
+             }
+         }
+    }
+},
+{ "car":{
+     "make": "Tesla",
+	  "model": "A7",
+     "vin": "09AGHY64352136598K",
+     "metadata" : {
+         "color" : "Blue",
+         "notes" : "09AGHY64352136598K: Scratches on the front side of the car"
+         },
+     "perdayrent" : {
+        "price" : 140,
+         "discount" : 15
+         },
+     "metrics" : {
+         "yoymaintanance" : 2190.76,
+         "depreciation": 2256.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 221
+             }
+         }
+    }
+}]

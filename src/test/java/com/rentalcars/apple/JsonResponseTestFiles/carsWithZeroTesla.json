@@ -1,0 +1,44 @@
+[{ "car":{
+     "make": "Audi",
+	  "model": "A7",
+     "vin": "09AGHY64352JITE1234",
+     "metadata" : {
+         "color" : "Blue",
+         "notes" : "Scratches on the front side of the car"
+         },
+     "perdayrent" : {
+        "price" : 140,
+         "discount" : 50
+         },
+     "metrics" : {
+         "yoymaintanance" : 2190.76,
+         "depreciation": 2256.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 221
+             }
+         }
+    }
+},
+{ "car":{
+     "make": "Audi",
+	  "model": "Q5",
+     "vin": "09AGHY64352JITE5678",
+     "metadata" : {
+         "color" : "Black",
+         "notes" : " Scratches on the front side of the car"
+         },
+     "perdayrent" : {
+        "price" : 120,
+         "discount" : 15
+         },
+     "metrics" : {
+         "yoymaintanance" : 2190.76,
+         "depreciation": 2256.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 221
+             }
+         }
+    }
+}]
